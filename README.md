@@ -1,7 +1,7 @@
 # Theme Toggle
 
 
-<h3>LIVE DEMO:-  </h3>
+<h3>LIVE DEMO:- https://md-raquib-hussain90.github.io/Theme-Preference/ </h3>
 A simple and responsive Dark/Light Theme Toggle built with HTML, CSS, and JavaScript.
 
 ## Features
